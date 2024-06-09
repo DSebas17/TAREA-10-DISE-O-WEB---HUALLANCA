@@ -1,0 +1,89 @@
+
+main{
+    padding-top: 8.5%;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#todo{
+    display: flex;
+    flex-direction: row;
+    column-gap: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    
+}
+
+
+#arribita{
+    color: #58151c;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#colocard{
+    margin: 5px;
+    padding: 5px;
+    width: 400px;
+    
+}
+
+.cam{
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    border: 1px solid rgb(102, 102, 102);
+    margin-top: 3px;
+    border-radius: 5px;
+
+}
+
+
+.mensaje{
+    padding: 5px;
+    width: 100%;
+    height: 100px;
+    border: 1px solid gray;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.que{
+    margin-bottom: 15px;
+    color: rgb(85, 85, 85);
+}
+
+
+
+.ga{
+    padding: 5px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    font-size: 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#mapita{
+    width: 450px;
+    height: 500px;
+    border-radius: 5px;
+    
+}
+
+#mapax{
+    border-radius: 5px;
+    height: 510px;
+}
+
+#direccion h3{
+    font-size: 25px;
+    color: #58151c;
+}
+
+#direccion p{
+    color: gray;
+    font-size: 18px;
+}
